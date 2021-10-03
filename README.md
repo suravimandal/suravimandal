@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**suravimandal/suravimandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=suravimandal&color=79b8ff)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Shopee as QA Engineer
-- 🌱 I’m currently learning Full Stack Development using Java Springboot and React Native using MongoDB and Kafka.
-- 👯 I’m looking to collaborate on Github, LinkedIn to learn more and contribute on Open Source Projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: connect to me on LinkedIn and Skype
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋! :woman:
+
+I am a Software Engineer at Shopee Singapore. 
+
+I am passionate about learning and sharing knowledge as much as I can. I am a detail-oriented person and I keep my goals and tasks organised to maintain productivity. I value a harmonious work environment, effective leadership, and creating meaningful relationships.
+
+Currently I am pursuing my M.tech Degree from NUS.
+
+I'm interested in **Data Science**, **Machine Learning** and **Full Stack Development**. I would like to explore and research more in **Software Engineering** field. I look forward to learn and contribute more on *Open Source Projects*. 
+
+
+
+
+
+
+|<img src="https://github-readme-stats.vercel.app/api?username=suravimandal&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=suravimandal"/>|
+|---|---|
+
+- Connect with me on 
+<table>
+   <tr>
+      <td>
+         <a href="https://www.linkedin.com/in/suravi-mandal-80308a11b/">
+            <img align="left" alt="suravimandal | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+         </a>
+      </td>
+      <td>
+         <a href="https://join.skype.com/invite/jghtugTmDJXF">
+            <img align="left" alt="suravi.mandal | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
+         </a>
+      </td>
+   </tr>
+</table>
+
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/suravimandal)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/suravimandal)
