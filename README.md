@@ -6,7 +6,7 @@
 
 I am a Software Engineer by Profession.
 
-I am passionate about learning and sharing knowledge as much as I can. I am a detail-oriented person and I keep my goals and tasks organised to maintain productivity. I value a harmonious work environment, effective leadership, and creating meaningful relationships.
+I am passionate about learning and sharing knowledge as much as I can. I am a detail-oriented person and I keep my goals and tasks organised to maintain productivity.
 
 I am pursuing my M.tech Degree from NUS. Currently, I am working as a Full Stack development Intern with Java Spring boot, React Navtive framework using MongoDb,  Kafka and Jenkins (to implement DevOps to work in a Agile environment).
 
