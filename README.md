@@ -10,7 +10,7 @@ I am passionate about learning and sharing knowledge as much as I can. I am a de
 
 Currently I am pursuing my M.tech Degree from NUS.
 
-I'm interested in **Data Science**, **Machine Learning** and **Full Stack Development**. I would like to explore and research more in **Software Engineering** field. I look forward to learn and contribute more on *Open Source Projects*. 
+I'm interested in **Data Science**, **Machine Learning** and **Full Stack Development**. I would like to explore and research more in *Software Engineering* field. I look forward to learn and contribute more on *Open Source Projects*. 
 
 
 
