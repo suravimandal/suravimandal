@@ -8,9 +8,9 @@ I am a Software Engineer at Shopee Singapore.
 
 I am passionate about learning and sharing knowledge as much as I can. I am a detail-oriented person and I keep my goals and tasks organised to maintain productivity. I value a harmonious work environment, effective leadership, and creating meaningful relationships.
 
-Currently I am pursuing my M.tech Degree from NUS. I am a Capstone Project Intern at *Nappier Health Care Pvt. Ltd.*. Currently, I am working on Full Stack development work with Java Spring boot, React Navtive framewor using MongoDb and Kafka, we use jenkins to implement DevOps to work in a Agile environment.
+Currently I am pursuing my M.tech Degree from NUS. I am a Capstone Project Intern at *Nappier Health Care Pvt. Ltd.*. Currently, I am working on Full Stack development with Java Spring boot, React Navtive framework using MongoDb and Kafka, we use jenkins to implement DevOps to work in a Agile environment.
 
-Apart from **Full Stack Development**, I'm also, interested in **Data Science** and **Machine Learning**. I would like to explore and research more in *Software Engineering* field. I look forward to learn and contribute more on *Open Source Projects*. 
+Apart from **Full Stack Development**, I'm also interested in **Data Science** and **Machine Learning**. I would like to explore and research more in *Software Engineering* field. I look forward to learn and contribute more on *Open Source Projects*. 
 
 
 
